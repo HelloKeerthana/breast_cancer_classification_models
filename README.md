@@ -21,13 +21,10 @@
 <p>An ensemble method that builds multiple decision trees and averages their predictions for higher accuracy.</p>
 
 <h2>Performance Metrics</h2>
-<p>Each model was evaluated based on accuracy, precision, recall, and F1-score. Standard scaling and MinMax scaling were tested for optimal results.</p>
+<p>Each model was evaluated based on accuracy.</p>
 
 <h2>Visualization</h2>
 <ul>
     <li>Bar charts were used to compare model accuracies.</li>
     <li>Broken Y-axis was implemented to highlight small accuracy differences.</li>
 </ul>
-
-<h2>Conclusion</h2>
-<p>Among the models, logistic regression and random forest performed best, achieving over 95% accuracy. Feature scaling significantly impacted performance.</p>
