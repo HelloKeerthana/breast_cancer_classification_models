@@ -2,6 +2,43 @@
 
 <h2>Dataset: Breast Cancer Wisconsin (Diagnostic) - Kaggle</h2>
 <p>This dataset contains features computed from digitized images of breast masses, with the goal of predicting whether a tumor is malignant (M) or benign (B).</p>
+<h1>Breast Cancer Wisconsin (Diagnostic) Dataset - Kaggle</h1>
+
+<h2>Overview</h2>
+<p>The Breast Cancer Wisconsin (Diagnostic) dataset is a widely used dataset for binary classification tasks in machine learning. It contains features extracted from digitized images of breast tumor cell nuclei, which help predict whether a tumor is malignant (cancerous) or benign (non-cancerous).</p>
+
+<h2>Dataset Details</h2>
+<ul>
+    <li><strong>Source:</strong> UCI Machine Learning Repository (hosted on Kaggle)</li>
+    <li><strong>Samples:</strong> 569</li>
+    <li><strong>Features:</strong> 30 numerical attributes (computed from cell nuclei images)</li>
+    <li><strong>Target Variable:</strong> Diagnosis (<code>M</code> for malignant, <code>B</code> for benign)</li>
+    <li><strong>Missing Values:</strong> None</li>
+</ul>
+
+<h2>Features</h2>
+<p>The dataset includes 10 real-valued features for each cell nucleus, computed for three different aspects (mean, standard error, and worst case):</p>
+<ul>
+    <li>Radius (mean of distances from center to perimeter)</li>
+    <li>Texture (variance of gray-scale values)</li>
+    <li>Perimeter</li>
+    <li>Area</li>
+    <li>Smoothness (local variation in radius)</li>
+    <li>Compactness</li>
+    <li>Concavity</li>
+    <li>Concave Points</li>
+    <li>Symmetry</li>
+    <li>Fractal Dimension</li>
+</ul>
+
+<h2>Target Variable</h2>
+<ul>
+    <li><strong>M (Malignant):</strong> Cancerous tumor (212 cases)</li>
+    <li><strong>B (Benign):</strong> Non-cancerous tumor (357 cases)</li>
+</ul>
+
+<h2>Usage</h2>
+<p>This dataset is commonly used for classification tasks in machine learning and deep learning. Models such as Logistic Regression, SVM, Random Forest, and Neural Networks can be trained to differentiate between malignant and benign tumors.</p>
 
 <h2>Models Used</h2>
 
