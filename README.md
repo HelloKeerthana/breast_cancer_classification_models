@@ -1,9 +1,5 @@
 <h1>Machine Learning Models for Breast Cancer Classification</h1>
 
-<h2>Dataset: Breast Cancer Wisconsin (Diagnostic) - Kaggle</h2>
-<p>This dataset contains features computed from digitized images of breast masses, with the goal of predicting whether a tumor is malignant (M) or benign (B).</p>
-<h1>Breast Cancer Wisconsin (Diagnostic) Dataset - Kaggle</h1>
-
 <h2>Overview</h2>
 <p>The Breast Cancer Wisconsin (Diagnostic) dataset is a widely used dataset for binary classification tasks in machine learning. It contains features extracted from digitized images of breast tumor cell nuclei, which help predict whether a tumor is malignant (cancerous) or benign (non-cancerous).</p>
 
