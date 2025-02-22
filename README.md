@@ -1,7 +1,9 @@
 <h1>Machine Learning Models for Breast Cancer Classification</h1>
 
 <h2>Overview</h2>
-<p>The Breast Cancer Wisconsin (Diagnostic) dataset is a widely used dataset for binary classification tasks in machine learning. It contains features extracted from digitized images of breast tumor cell nuclei, which help predict whether a tumor is malignant (cancerous) or benign (non-cancerous).</p>
+<p>The Breast Cancer Wisconsin (Diagnostic) dataset is a widely used dataset for binary classification tasks in machine learning. 
+It contains features extracted from digitized images of breast tumor cell nuclei, which help
+    predict whether a tumor is malignant (cancerous) or benign (non-cancerous).</p>
 
 <h2>Dataset Details</h2>
 <ul>
@@ -34,7 +36,8 @@
 </ul>
 
 <h2>Usage</h2>
-<p>This dataset is commonly used for classification tasks in machine learning and deep learning. Models such as Logistic Regression, SVM, Random Forest, and Neural Networks can be trained to differentiate between malignant and benign tumors.</p>
+<p>This dataset is commonly used for classification tasks in machine learning and deep learning. 
+    Models such as Logistic Regression, SVM, Random Forest, and Neural Networks can be trained to differentiate between malignant and benign tumors.</p>
 
 <h2>Models Used</h2>
 
